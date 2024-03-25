@@ -1,0 +1,27 @@
+{
+  "name": "simple-php-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/kaurcev/simple-php-api",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaurcev/simple-php-api.git"
+  },
+  "dependencies": {
+    "axios": "^0.20.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "repos",
+    "repositories",
+    "sort",
+    "stars"
+  ],
+  "author": "kaurcev <skaurcev2004@yandex.ru>",
+  "license": "ISC"
+}
